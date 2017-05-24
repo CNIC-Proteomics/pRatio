@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<aminoacids_list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///E:\Pedro\2008\pRatio_v5.0.1\pRatio\bin\Debug\conf\aminoacids_weight.xsd">
+<aminoacid name="glycine" one_char_code="G" three_char_code="gly" monoisotopic_incremental_weight="57.02146" average_incremental_weight="57.0520" charge="none" pKa="0"/>           
+<aminoacid name="alanine" one_char_code="A" three_char_code="ala" monoisotopic_incremental_weight="71.03711" average_incremental_weight="71.0788" charge="none" pKa="0"/>           
+<aminoacid name="serine " one_char_code="S" three_char_code="ser" monoisotopic_incremental_weight="87.03203" average_incremental_weight="87.0782" charge="none" pKa="0"/>           
+<aminoacid name="proline" one_char_code="P" three_char_code="pro" monoisotopic_incremental_weight="97.05276" average_incremental_weight="97.1167" charge="none" pKa="0"/>           
+<aminoacid name="valine" one_char_code="V" three_char_code="val" monoisotopic_incremental_weight="99.06841" average_incremental_weight="99.1326" charge="none" pKa="0"/>            
+<aminoacid name="threonine" one_char_code="T" three_char_code="thr" monoisotopic_incremental_weight="101.04768" average_incremental_weight="101.1051" charge="none" pKa="0"/>         
+<aminoacid name="cysteine" one_char_code="C" three_char_code="cys" monoisotopic_incremental_weight="103.00919" average_incremental_weight="103.1448" charge="negative" pKa="8.7"/>          
+<aminoacid name="isoleucine" one_char_code="I" three_char_code="ile" monoisotopic_incremental_weight="113.08406" average_incremental_weight="113.1595" charge="none" pKa="0"/>        
+<aminoacid name="leucine" one_char_code="L" three_char_code="leu" monoisotopic_incremental_weight="113.08406" average_incremental_weight="113.1595" charge="none" pKa="0"/>           
+<aminoacid name="asparagine" one_char_code="N" three_char_code="asn" monoisotopic_incremental_weight="114.04293" average_incremental_weight="114.1039" charge="none" pKa="0"/>        
+<aminoacid name="aspartic acid" one_char_code="D" three_char_code="asp" monoisotopic_incremental_weight="115.02694" average_incremental_weight="115.0886" charge="negative" pKa="4.05"/>     
+<aminoacid name="glutamine" one_char_code="Q" three_char_code="gln" monoisotopic_incremental_weight="128.05858" average_incremental_weight="128.1308" charge="none" pKa="0"/>         
+<aminoacid name="lysine" one_char_code="K" three_char_code="lys" monoisotopic_incremental_weight="128.09496" average_incremental_weight="128.1742" charge="positive" pKa="10.5"/>            
+<aminoacid name="glutamic acid" one_char_code="E" three_char_code="glu" monoisotopic_incremental_weight="129.04259" average_incremental_weight="129.1155" charge="negative" pKa="4.45"/>     
+<aminoacid name="methionine" one_char_code="M" three_char_code="met" monoisotopic_incremental_weight="131.04049" average_incremental_weight="131.1986" charge="none" pKa="0"/>
+<aminoacid name="histidine" one_char_code="H" three_char_code="his" monoisotopic_incremental_weight="137.05891" average_incremental_weight="137.1412" charge="positive" pKa="6.25"/>          
+<aminoacid name="phenylalanine" one_char_code="F" three_char_code="phe" monoisotopic_incremental_weight="147.06841" average_incremental_weight="147.1766" charge="none" pKa="0"/>      
+<aminoacid name="arginine" one_char_code="R" three_char_code="arg" monoisotopic_incremental_weight="156.10111" average_incremental_weight="156.1876" charge="positive" pKa="13"/>           
+<aminoacid name="tyrosine" one_char_code="Y" three_char_code="tyr" monoisotopic_incremental_weight="163.06333" average_incremental_weight="163.1760" charge="negative" pKa="9.8"/>           
+<aminoacid name="tryptophan" one_char_code="W" three_char_code="trp" monoisotopic_incremental_weight="186.07931" average_incremental_weight="186.2133" charge="none" pKa="0"/>         
+<group name="Cterm" charge="negative" required="yes" pKa="3.55"/>
+<group name="Nterm" charge="positive" required="yes" pKa="7.5"/>
+</aminoacids_list>
+

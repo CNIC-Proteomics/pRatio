@@ -1,0 +1,29 @@
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\bin\x64\Release\pRatio.exe.config
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\bin\x64\Release\pRatio.exe
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\bin\x64\Release\pRatio.pdb
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\bin\x64\Release\Community.CsharpSqlite.dll
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\bin\x64\Release\Community.CsharpSqlite.SQLiteClient.dll
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\x64\Release\ResolveAssemblyReference.cache
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\x64\Release\pRatio.AboutBox1.resources
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\x64\Release\pRatio.frmMain.resources
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\x64\Release\pRatio.frmHelp.resources
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\x64\Release\pRatio.Properties.Resources.resources
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\x64\Release\pRatio.csproj.GenerateResource.Cache
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\x64\Release\pRatio.exe
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\x64\Release\pRatio.pdb
+D:\DATUMARO\trabajo\tareas realizadas\2017\2017-05-22 código fuente de los programas\trunk\pRatio\bin\x64\Release\pRatio.exe.config
+D:\DATUMARO\trabajo\tareas realizadas\2017\2017-05-22 código fuente de los programas\trunk\pRatio\obj\x64\Release\pRatio.exe
+D:\DATUMARO\trabajo\tareas realizadas\2017\2017-05-22 código fuente de los programas\trunk\pRatio\obj\x64\Release\pRatio.pdb
+D:\DATUMARO\trabajo\tareas realizadas\2017\2017-05-22 código fuente de los programas\trunk\pRatio\bin\x64\Release\pRatio.exe
+D:\DATUMARO\trabajo\tareas realizadas\2017\2017-05-22 código fuente de los programas\trunk\pRatio\bin\x64\Release\pRatio.pdb
+D:\DATUMARO\trabajo\tareas realizadas\2017\2017-05-22 código fuente de los programas\trunk\pRatio\bin\x64\Release\Community.CsharpSqlite.dll
+D:\DATUMARO\trabajo\tareas realizadas\2017\2017-05-22 código fuente de los programas\trunk\pRatio\bin\x64\Release\Community.CsharpSqlite.SQLiteClient.dll
+D:\DATUMARO\trabajo\tareas realizadas\2017\2017-05-22 código fuente de los programas\trunk\pRatio\obj\x64\Release\ResolveAssemblyReference.cache
+D:\DATUMARO\trabajo\tareas realizadas\2017\2017-05-22 código fuente de los programas\trunk\pRatio\obj\x64\Release\pRatio.AboutBox1.resources
+D:\DATUMARO\trabajo\tareas realizadas\2017\2017-05-22 código fuente de los programas\trunk\pRatio\obj\x64\Release\pRatio.frmMain.resources
+D:\DATUMARO\trabajo\tareas realizadas\2017\2017-05-22 código fuente de los programas\trunk\pRatio\obj\x64\Release\pRatio.frmHelp.resources
+D:\DATUMARO\trabajo\tareas realizadas\2017\2017-05-22 código fuente de los programas\trunk\pRatio\obj\x64\Release\pRatio.Properties.Resources.resources
+D:\DATUMARO\trabajo\tareas realizadas\2017\2017-05-22 código fuente de los programas\trunk\pRatio\obj\x64\Release\pRatio.csproj.GenerateResource.Cache
+D:\DATUMARO\trabajo\github\pRatio\pRatio\bin\x64\Release\pRatio.exe.config
+D:\DATUMARO\trabajo\github\pRatio\pRatio\obj\x64\Release\pRatio.exe
+D:\DATUMARO\trabajo\github\pRatio\pRatio\obj\x64\Release\pRatio.pdb

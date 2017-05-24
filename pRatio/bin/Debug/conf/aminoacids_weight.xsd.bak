@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="aminoacids_list">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="aminoacid"/>
+		<xs:element minOccurs="0" maxOccurs="unbounded" ref="group"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="aminoacid">
+    <xs:complexType>
+      <xs:attribute name="name" use="required" type="xs:string"/>
+      <xs:attribute name="one_char_code" use="required" type="xs:NCName"/>
+      <xs:attribute name="three_char_code" use="required" type="xs:NCName"/>
+      <xs:attribute name="monoisotopic_incremental_weight" use="required" type="xs:decimal"/>
+      <xs:attribute name="average_incremental_weight" use="required" type="xs:decimal"/>
+	  <xs:attribute ref="charge" use="required"/>
+      <xs:attribute ref="pKa" use="required"/>	
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="group">
+	<xs:complexType>
+		<xs:attribute name="name" use="required" type="xs:string"/>
+		<xs:attribute name="required"  use="required">
+		 <xs:simpleType>
+		 	<xs:restriction base="xs:string">
+				<xs:enumeration value="yes"/>
+				<xs:enumeration value="no"/>
+			</xs:restriction>
+		 </xs:simpleType>
+		</xs:attribute>
+        <xs:attribute ref="charge" use="required"/>
+        <xs:attribute ref="pKa" use="required"/>	
+	</xs:complexType>
+  </xs:element>
+
+  <xs:attribute name="charge">
+	  	<xs:simpleType>
+			<xs:restriction base="xs:string">
+				<xs:enumeration value="negative"/>
+				<xs:enumeration value="positive"/>
+				<xs:enumeration value="none"/>
+			</xs:restriction>
+		</xs:simpleType>
+	  </xs:attribute>
+  <xs:attribute name="pKa" type="xs:decimal"/>
+	
+
+</xs:schema>

@@ -1,0 +1,210 @@
+F:\wrk\ProbRatios\versions\pRatio_v4.0.7\pRatio\bin\Debug\pRatio.exe.config
+F:\wrk\ProbRatios\versions\pRatio_v4.0.7\pRatio\bin\Debug\pRatio.exe.manifest
+F:\wrk\ProbRatios\versions\pRatio_v4.0.7\pRatio\bin\Debug\pRatio.application
+F:\wrk\ProbRatios\versions\pRatio_v4.0.7\pRatio\bin\Debug\pRatio.exe
+F:\wrk\ProbRatios\versions\pRatio_v4.0.7\pRatio\bin\Debug\pRatio.pdb
+F:\wrk\ProbRatios\versions\pRatio_v4.0.7\pRatio\bin\Debug\Interop.BIOUNIFIEDFILELib.dll
+F:\wrk\ProbRatios\versions\pRatio_v4.0.7\pRatio\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\ProbRatios\versions\pRatio_v4.0.7\pRatio\obj\Debug\Interop.BIOUNIFIEDFILELib.dll
+F:\wrk\ProbRatios\versions\pRatio_v4.0.7\pRatio\obj\Debug\pRatio.csproj.ResolveComReference.cache
+F:\wrk\ProbRatios\versions\pRatio_v4.0.7\pRatio\obj\Debug\pRatio.AboutBox1.resources
+F:\wrk\ProbRatios\versions\pRatio_v4.0.7\pRatio\obj\Debug\pRatio.Form1.resources
+F:\wrk\ProbRatios\versions\pRatio_v4.0.7\pRatio\obj\Debug\pRatio.frmHelp.resources
+F:\wrk\ProbRatios\versions\pRatio_v4.0.7\pRatio\obj\Debug\pRatio.Properties.Resources.resources
+F:\wrk\ProbRatios\versions\pRatio_v4.0.7\pRatio\obj\Debug\pRatio.csproj.GenerateResource.Cache
+F:\wrk\ProbRatios\versions\pRatio_v4.0.7\pRatio\obj\Debug\pRatio.exe.manifest
+F:\wrk\ProbRatios\versions\pRatio_v4.0.7\pRatio\obj\Debug\pRatio.application
+F:\wrk\ProbRatios\versions\pRatio_v4.0.7\pRatio\obj\Debug\pRatio.exe
+F:\wrk\ProbRatios\versions\pRatio_v4.0.7\pRatio\obj\Debug\pRatio.pdb
+F:\wrk\ProbRatios\versions\pRatio_v4.0.8\pRatio\bin\Debug\pRatio.exe.config
+F:\wrk\ProbRatios\versions\pRatio_v4.0.8\pRatio\bin\Debug\pRatio.exe.manifest
+F:\wrk\ProbRatios\versions\pRatio_v4.0.8\pRatio\bin\Debug\pRatio.application
+F:\wrk\ProbRatios\versions\pRatio_v4.0.8\pRatio\bin\Debug\pRatio.exe
+F:\wrk\ProbRatios\versions\pRatio_v4.0.8\pRatio\bin\Debug\pRatio.pdb
+F:\wrk\ProbRatios\versions\pRatio_v4.0.8\pRatio\bin\Debug\Interop.BIOUNIFIEDFILELib.dll
+F:\wrk\ProbRatios\versions\pRatio_v4.0.8\pRatio\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\ProbRatios\versions\pRatio_v4.0.8\pRatio\obj\Debug\Interop.BIOUNIFIEDFILELib.dll
+F:\wrk\ProbRatios\versions\pRatio_v4.0.8\pRatio\obj\Debug\pRatio.csproj.ResolveComReference.cache
+F:\wrk\ProbRatios\versions\pRatio_v4.0.8\pRatio\obj\Debug\pRatio.AboutBox1.resources
+F:\wrk\ProbRatios\versions\pRatio_v4.0.8\pRatio\obj\Debug\pRatio.Form1.resources
+F:\wrk\ProbRatios\versions\pRatio_v4.0.8\pRatio\obj\Debug\pRatio.frmHelp.resources
+F:\wrk\ProbRatios\versions\pRatio_v4.0.8\pRatio\obj\Debug\pRatio.Properties.Resources.resources
+F:\wrk\ProbRatios\versions\pRatio_v4.0.8\pRatio\obj\Debug\pRatio.csproj.GenerateResource.Cache
+F:\wrk\ProbRatios\versions\pRatio_v4.0.8\pRatio\obj\Debug\pRatio.exe.manifest
+F:\wrk\ProbRatios\versions\pRatio_v4.0.8\pRatio\obj\Debug\pRatio.application
+F:\wrk\ProbRatios\versions\pRatio_v4.0.8\pRatio\obj\Debug\pRatio.exe
+F:\wrk\ProbRatios\versions\pRatio_v4.0.8\pRatio\obj\Debug\pRatio.pdb
+F:\wrk\ProbRatios\versions\pRatio_v5.0.1\pRatio\bin\Debug\pRatio.exe.config
+F:\wrk\ProbRatios\versions\pRatio_v5.0.1\pRatio\obj\Debug\Interop.BIOUNIFIEDFILELib.dll
+F:\wrk\ProbRatios\versions\pRatio_v5.0.1\pRatio\obj\Debug\pRatio.csproj.ResolveComReference.cache
+F:\wrk\ProbRatios\versions\pRatio_v5.0.1\pRatio\obj\Debug\pRatio.exe
+F:\wrk\ProbRatios\versions\pRatio_v5.0.1\pRatio\obj\Debug\pRatio.pdb
+F:\wrk\ProbRatios\versions\pRatio_v5.0.1\pRatio\bin\Debug\pRatio.exe.manifest
+F:\wrk\ProbRatios\versions\pRatio_v5.0.1\pRatio\bin\Debug\pRatio.application
+F:\wrk\ProbRatios\versions\pRatio_v5.0.1\pRatio\bin\Debug\pRatio.exe
+F:\wrk\ProbRatios\versions\pRatio_v5.0.1\pRatio\bin\Debug\pRatio.pdb
+F:\wrk\ProbRatios\versions\pRatio_v5.0.1\pRatio\bin\Debug\Interop.BIOUNIFIEDFILELib.dll
+F:\wrk\ProbRatios\versions\pRatio_v5.0.1\pRatio\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\ProbRatios\versions\pRatio_v5.0.1\pRatio\obj\Debug\pRatio.AboutBox1.resources
+F:\wrk\ProbRatios\versions\pRatio_v5.0.1\pRatio\obj\Debug\pRatio.Form1.resources
+F:\wrk\ProbRatios\versions\pRatio_v5.0.1\pRatio\obj\Debug\pRatio.frmHelp.resources
+F:\wrk\ProbRatios\versions\pRatio_v5.0.1\pRatio\obj\Debug\pRatio.Properties.Resources.resources
+F:\wrk\ProbRatios\versions\pRatio_v5.0.1\pRatio\obj\Debug\pRatio.csproj.GenerateResource.Cache
+F:\wrk\ProbRatios\versions\pRatio_v5.0.1\pRatio\obj\Debug\pRatio.exe.manifest
+F:\wrk\ProbRatios\versions\pRatio_v5.0.1\pRatio\obj\Debug\pRatio.application
+E:\Pedro\2008\pRatio_v5.0.1\pRatio\bin\Debug\pRatio.exe.config
+E:\Pedro\2008\pRatio_v5.0.1\pRatio\obj\Debug\Interop.BIOUNIFIEDFILELib.dll
+E:\Pedro\2008\pRatio_v5.0.1\pRatio\obj\Debug\pRatio.csproj.ResolveComReference.cache
+E:\Pedro\2008\pRatio_v5.0.1\pRatio\obj\Debug\pRatio.exe
+E:\Pedro\2008\pRatio_v5.0.1\pRatio\obj\Debug\pRatio.pdb
+E:\Pedro\2008\pRatio_v5.0.1\pRatio\obj\Debug\ResolveAssemblyReference.cache
+E:\Pedro\2008\pRatio_v5.0.1\pRatio\obj\Debug\pRatio.AboutBox1.resources
+E:\Pedro\2008\pRatio_v5.0.1\pRatio\obj\Debug\pRatio.Form1.resources
+E:\Pedro\2008\pRatio_v5.0.1\pRatio\obj\Debug\pRatio.frmHelp.resources
+E:\Pedro\2008\pRatio_v5.0.1\pRatio\obj\Debug\pRatio.Properties.Resources.resources
+E:\Pedro\2008\pRatio_v5.0.1\pRatio\obj\Debug\pRatio.csproj.GenerateResource.Cache
+E:\Pedro\2008\pRatio_v5.0.1\pRatio\bin\Debug\pRatio.exe.manifest
+E:\Pedro\2008\pRatio_v5.0.1\pRatio\bin\Debug\pRatio.application
+E:\Pedro\2008\pRatio_v5.0.1\pRatio\bin\Debug\pRatio.exe
+E:\Pedro\2008\pRatio_v5.0.1\pRatio\bin\Debug\pRatio.pdb
+E:\Pedro\2008\pRatio_v5.0.1\pRatio\bin\Debug\Interop.BIOUNIFIEDFILELib.dll
+E:\Pedro\2008\pRatio_v5.0.1\pRatio\obj\Debug\pRatio.exe.manifest
+E:\Pedro\2008\pRatio_v5.0.1\pRatio\obj\Debug\pRatio.application
+I:\wrk\soft_factory\pRatio\trunk\pRatio\bin\Debug\pRatio.exe.config
+I:\wrk\soft_factory\pRatio\trunk\pRatio\bin\Debug\pRatio.exe.manifest
+I:\wrk\soft_factory\pRatio\trunk\pRatio\bin\Debug\pRatio.application
+I:\wrk\soft_factory\pRatio\trunk\pRatio\bin\Debug\pRatio.exe
+I:\wrk\soft_factory\pRatio\trunk\pRatio\bin\Debug\pRatio.pdb
+I:\wrk\soft_factory\pRatio\trunk\pRatio\bin\Debug\Interop.BIOUNIFIEDFILELib.dll
+I:\wrk\soft_factory\pRatio\trunk\pRatio\obj\Debug\ResolveAssemblyReference.cache
+I:\wrk\soft_factory\pRatio\trunk\pRatio\obj\Debug\Interop.BIOUNIFIEDFILELib.dll
+I:\wrk\soft_factory\pRatio\trunk\pRatio\obj\Debug\pRatio.csproj.ResolveComReference.cache
+I:\wrk\soft_factory\pRatio\trunk\pRatio\obj\Debug\pRatio.AboutBox1.resources
+I:\wrk\soft_factory\pRatio\trunk\pRatio\obj\Debug\pRatio.Form1.resources
+I:\wrk\soft_factory\pRatio\trunk\pRatio\obj\Debug\pRatio.frmHelp.resources
+I:\wrk\soft_factory\pRatio\trunk\pRatio\obj\Debug\pRatio.Properties.Resources.resources
+I:\wrk\soft_factory\pRatio\trunk\pRatio\obj\Debug\pRatio.csproj.GenerateResource.Cache
+I:\wrk\soft_factory\pRatio\trunk\pRatio\obj\Debug\pRatio.exe.manifest
+I:\wrk\soft_factory\pRatio\trunk\pRatio\obj\Debug\pRatio.application
+I:\wrk\soft_factory\pRatio\trunk\pRatio\obj\Debug\pRatio.exe
+I:\wrk\soft_factory\pRatio\trunk\pRatio\obj\Debug\pRatio.pdb
+I:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\bin\Debug\pRatio.exe.config
+I:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\Debug\Interop.BIOUNIFIEDFILELib.dll
+I:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\Debug\pRatio.csproj.ResolveComReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\Debug\pRatio.exe
+I:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\Debug\pRatio.pdb
+I:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\bin\Debug\pRatio.exe.manifest
+I:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\bin\Debug\pRatio.application
+I:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\bin\Debug\pRatio.exe
+I:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\bin\Debug\pRatio.pdb
+I:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\bin\Debug\Interop.BIOUNIFIEDFILELib.dll
+I:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\Debug\ResolveAssemblyReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\Debug\pRatio.AboutBox1.resources
+I:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\Debug\pRatio.frmHelp.resources
+I:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\Debug\pRatio.Properties.Resources.resources
+I:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\Debug\pRatio.csproj.GenerateResource.Cache
+I:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\Debug\pRatio.exe.manifest
+I:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\Debug\pRatio.application
+C:\Documents and Settings\lab\Escritorio\pRatio\trunk\pRatio\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lab\Escritorio\pRatio\trunk\pRatio\obj\Debug\pRatio.csproj.ResolveComReference.cache
+C:\Documents and Settings\lab\Escritorio\pRatio\trunk\pRatio\obj\Debug\pRatio.AboutBox1.resources
+C:\Documents and Settings\lab\Escritorio\pRatio\trunk\pRatio\obj\Debug\pRatio.frmHelp.resources
+C:\Documents and Settings\lab\Escritorio\pRatio\trunk\pRatio\obj\Debug\pRatio.Properties.Resources.resources
+C:\Documents and Settings\lab\Escritorio\pRatio\trunk\pRatio\obj\Debug\pRatio.csproj.GenerateResource.Cache
+C:\Documents and Settings\lab\Escritorio\pRatio\trunk\pRatio\obj\Debug\pRatio.exe
+C:\Documents and Settings\lab\Escritorio\pRatio\trunk\pRatio\obj\Debug\pRatio.pdb
+C:\Documents and Settings\lab\Escritorio\pRatio\trunk\pRatio\bin\Debug\pRatio.exe.config
+C:\Documents and Settings\lab\Escritorio\pRatio\trunk\pRatio\bin\Debug\pRatio.exe.manifest
+C:\Documents and Settings\lab\Escritorio\pRatio\trunk\pRatio\bin\Debug\pRatio.application
+C:\Documents and Settings\lab\Escritorio\pRatio\trunk\pRatio\bin\Debug\pRatio.exe
+C:\Documents and Settings\lab\Escritorio\pRatio\trunk\pRatio\bin\Debug\pRatio.pdb
+C:\Documents and Settings\lab\Escritorio\pRatio\trunk\pRatio\bin\Debug\Interop.BIOUNIFIEDFILELib.dll
+C:\Documents and Settings\lab\Escritorio\pRatio\trunk\pRatio\obj\Debug\Interop.BIOUNIFIEDFILELib.dll
+C:\Documents and Settings\lab\Escritorio\pRatio\trunk\pRatio\obj\Debug\pRatio.exe.manifest
+C:\Documents and Settings\lab\Escritorio\pRatio\trunk\pRatio\obj\Debug\pRatio.application
+C:\Documents and Settings\lab\Escritorio\pRatio\trunk\pRatio\obj\Debug\pRatio.frmMain.resources
+C:\Documents and Settings\lab\Escritorio\pRatio\trunk\pRatio\bin\Debug\Community.CsharpSqlite.dll
+C:\Documents and Settings\lab\Escritorio\pRatio\trunk\pRatio\bin\Debug\Community.CsharpSqlite.SQLiteClient.dll
+I:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\bin\Debug\Community.CsharpSqlite.SQLiteClient.dll
+I:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\bin\Debug\Community.CsharpSqlite.dll
+I:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\Debug\pRatio.frmMain.resources
+c:\Documents and Settings\Administrador\Mis documentos\dev\pRatio\pRatio\bin\Debug\pRatio.exe.config
+c:\Documents and Settings\Administrador\Mis documentos\dev\pRatio\pRatio\bin\Debug\pRatio.exe
+c:\Documents and Settings\Administrador\Mis documentos\dev\pRatio\pRatio\bin\Debug\pRatio.pdb
+c:\Documents and Settings\Administrador\Mis documentos\dev\pRatio\pRatio\bin\Debug\Community.CsharpSqlite.SQLiteClient.dll
+c:\Documents and Settings\Administrador\Mis documentos\dev\pRatio\pRatio\bin\Debug\Community.CsharpSqlite.dll
+c:\Documents and Settings\Administrador\Mis documentos\dev\pRatio\pRatio\obj\Debug\ResolveAssemblyReference.cache
+c:\Documents and Settings\Administrador\Mis documentos\dev\pRatio\pRatio\obj\Debug\pRatio.AboutBox1.resources
+c:\Documents and Settings\Administrador\Mis documentos\dev\pRatio\pRatio\obj\Debug\pRatio.frmMain.resources
+c:\Documents and Settings\Administrador\Mis documentos\dev\pRatio\pRatio\obj\Debug\pRatio.frmHelp.resources
+c:\Documents and Settings\Administrador\Mis documentos\dev\pRatio\pRatio\obj\Debug\pRatio.Properties.Resources.resources
+c:\Documents and Settings\Administrador\Mis documentos\dev\pRatio\pRatio\obj\Debug\pRatio.csproj.GenerateResource.Cache
+c:\Documents and Settings\Administrador\Mis documentos\dev\pRatio\pRatio\obj\Debug\pRatio.exe
+c:\Documents and Settings\Administrador\Mis documentos\dev\pRatio\pRatio\obj\Debug\pRatio.pdb
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk_2\pRatio\bin\Debug\pRatio.exe.config
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk_2\pRatio\bin\Debug\pRatio.exe
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk_2\pRatio\bin\Debug\pRatio.pdb
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk_2\pRatio\bin\Debug\Community.CsharpSqlite.SQLiteClient.dll
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk_2\pRatio\bin\Debug\Community.CsharpSqlite.dll
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk_2\pRatio\obj\Debug\ResolveAssemblyReference.cache
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk_2\pRatio\obj\Debug\pRatio.AboutBox1.resources
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk_2\pRatio\obj\Debug\pRatio.frmMain.resources
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk_2\pRatio\obj\Debug\pRatio.frmHelp.resources
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk_2\pRatio\obj\Debug\pRatio.Properties.Resources.resources
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk_2\pRatio\obj\Debug\pRatio.csproj.GenerateResource.Cache
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk_2\pRatio\obj\Debug\pRatio.exe
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk_2\pRatio\obj\Debug\pRatio.pdb
+D:\DATUMARO\trabajo\programas_repositorio\pRatio borrable\trunk\pRatio\bin\Debug\pRatio.exe.config
+D:\DATUMARO\trabajo\programas_repositorio\pRatio borrable\trunk\pRatio\obj\Debug\pRatio.exe
+D:\DATUMARO\trabajo\programas_repositorio\pRatio borrable\trunk\pRatio\obj\Debug\pRatio.pdb
+D:\DATUMARO\trabajo\programas_repositorio\pRatio borrable\trunk\pRatio\obj\Debug\ResolveAssemblyReference.cache
+D:\DATUMARO\trabajo\programas_repositorio\pRatio borrable\trunk\pRatio\obj\Debug\pRatio.AboutBox1.resources
+D:\DATUMARO\trabajo\programas_repositorio\pRatio borrable\trunk\pRatio\obj\Debug\pRatio.frmMain.resources
+D:\DATUMARO\trabajo\programas_repositorio\pRatio borrable\trunk\pRatio\obj\Debug\pRatio.frmHelp.resources
+D:\DATUMARO\trabajo\programas_repositorio\pRatio borrable\trunk\pRatio\obj\Debug\pRatio.Properties.Resources.resources
+D:\DATUMARO\trabajo\programas_repositorio\pRatio borrable\trunk\pRatio\obj\Debug\pRatio.csproj.GenerateResource.Cache
+D:\DATUMARO\trabajo\programas_repositorio\pRatio borrable\trunk\pRatio\bin\Debug\pRatio.exe
+D:\DATUMARO\trabajo\programas_repositorio\pRatio borrable\trunk\pRatio\bin\Debug\pRatio.pdb
+D:\DATUMARO\trabajo\programas_repositorio\pRatio borrable\trunk\pRatio\bin\Debug\Community.CsharpSqlite.SQLiteClient.dll
+D:\DATUMARO\trabajo\programas_repositorio\pRatio borrable\trunk\pRatio\bin\Debug\Community.CsharpSqlite.dll
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\bin\Debug\pRatio.exe.config
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\bin\Debug\pRatio.exe
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\bin\Debug\pRatio.pdb
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\bin\Debug\Community.CsharpSqlite.SQLiteClient.dll
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\bin\Debug\Community.CsharpSqlite.dll
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\Debug\ResolveAssemblyReference.cache
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\Debug\pRatio.AboutBox1.resources
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\Debug\pRatio.frmMain.resources
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\Debug\pRatio.frmHelp.resources
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\Debug\pRatio.Properties.Resources.resources
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\Debug\pRatio.csproj.GenerateResource.Cache
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\Debug\pRatio.exe
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\Debug\pRatio.pdb
+C:\Users\iezkurdia\Desktop\pRatio\trunk\pRatio\bin\Debug\pRatio.exe.config
+C:\Users\iezkurdia\Desktop\pRatio\trunk\pRatio\obj\Debug\pRatio.exe
+C:\Users\iezkurdia\Desktop\pRatio\trunk\pRatio\obj\Debug\pRatio.pdb
+C:\Users\iezkurdia\Desktop\pRatio\trunk\pRatio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\iezkurdia\Desktop\pRatio\trunk\pRatio\obj\Debug\pRatio.AboutBox1.resources
+C:\Users\iezkurdia\Desktop\pRatio\trunk\pRatio\obj\Debug\pRatio.frmMain.resources
+C:\Users\iezkurdia\Desktop\pRatio\trunk\pRatio\obj\Debug\pRatio.frmHelp.resources
+C:\Users\iezkurdia\Desktop\pRatio\trunk\pRatio\obj\Debug\pRatio.Properties.Resources.resources
+C:\Users\iezkurdia\Desktop\pRatio\trunk\pRatio\obj\Debug\pRatio.csproj.GenerateResource.Cache
+C:\Users\iezkurdia\Desktop\pRatio\trunk\pRatio\bin\Debug\pRatio.exe
+C:\Users\iezkurdia\Desktop\pRatio\trunk\pRatio\bin\Debug\pRatio.pdb
+C:\Users\iezkurdia\Desktop\pRatio\trunk\pRatio\bin\Debug\Community.CsharpSqlite.SQLiteClient.dll
+C:\Users\iezkurdia\Desktop\pRatio\trunk\pRatio\bin\Debug\Community.CsharpSqlite.dll
+C:\Users\iezkurdia\Desktop\pRatio\trunk\pRatio\bin\Debug\Community.CsharpSqlite.pdb
+C:\Users\iezkurdia\Desktop\pRatio\trunk\pRatio\bin\Debug\Community.CsharpSqlite.SQLiteClient.pdb
+D:\DATUMARO\trabajo\programas_repositorio\pRatio2\trunk\pRatio\bin\Debug\pRatio.exe.config
+D:\DATUMARO\trabajo\programas_repositorio\pRatio2\trunk\pRatio\obj\Debug\pRatio.exe
+D:\DATUMARO\trabajo\programas_repositorio\pRatio2\trunk\pRatio\obj\Debug\pRatio.pdb
+D:\DATUMARO\trabajo\programas_repositorio\pRatio2\trunk\pRatio\bin\Debug\pRatio.exe
+D:\DATUMARO\trabajo\programas_repositorio\pRatio2\trunk\pRatio\bin\Debug\pRatio.pdb
+D:\DATUMARO\trabajo\programas_repositorio\pRatio2\trunk\pRatio\bin\Debug\Community.CsharpSqlite.dll
+D:\DATUMARO\trabajo\programas_repositorio\pRatio2\trunk\pRatio\bin\Debug\Community.CsharpSqlite.SQLiteClient.dll
+D:\DATUMARO\trabajo\programas_repositorio\pRatio2\trunk\pRatio\obj\Debug\ResolveAssemblyReference.cache
+D:\DATUMARO\trabajo\programas_repositorio\pRatio2\trunk\pRatio\obj\Debug\pRatio.AboutBox1.resources
+D:\DATUMARO\trabajo\programas_repositorio\pRatio2\trunk\pRatio\obj\Debug\pRatio.frmMain.resources
+D:\DATUMARO\trabajo\programas_repositorio\pRatio2\trunk\pRatio\obj\Debug\pRatio.frmHelp.resources
+D:\DATUMARO\trabajo\programas_repositorio\pRatio2\trunk\pRatio\obj\Debug\pRatio.Properties.Resources.resources
+D:\DATUMARO\trabajo\programas_repositorio\pRatio2\trunk\pRatio\obj\Debug\pRatio.csproj.GenerateResource.Cache

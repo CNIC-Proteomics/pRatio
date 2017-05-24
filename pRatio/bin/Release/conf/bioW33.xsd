@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="sequestresults">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="origfilename"/>
+        <xs:element ref="origfilepath"/>
+        <xs:element ref="bioworksinfo"/>
+        <xs:element ref="database"/>
+        <xs:element ref="enzyme"/>
+        <xs:element ref="modifications"/>
+        <xs:element maxOccurs="unbounded" ref="peptide_match"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="origfilename">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="origfilepath" type="xs:string"/>
+  <xs:element name="bioworksinfo" type="xs:string"/>
+  <xs:element name="database" type="xs:string"/>
+  <xs:element name="enzyme">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="modifications" type="xs:string"/>
+  <xs:element name="peptide_match">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="reference"/>
+        <xs:element ref="peptide"/>
+        <xs:element ref="dta_file"/>
+        <xs:element ref="scan_range"/>
+        <xs:element ref="charge"/>
+        <xs:element ref="search_time"/>
+        <xs:element ref="intensity"/>
+        <xs:element ref="actual_mass"/>
+        <xs:element ref="input_mass"/>
+        <xs:element ref="xcorr"/>
+        <xs:element ref="deltacn"/>
+        <xs:element ref="sp"/>
+        <xs:element ref="rsp"/>
+        <xs:element ref="ions"/>
+        <xs:element ref="count"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="reference" type="xs:string"/>
+  <xs:element name="peptide" type="xs:string"/>
+  <xs:element name="dta_file">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="scan_range" type="xs:string"/>
+  <xs:element name="charge" type="xs:integer"/>
+  <xs:element name="search_time" type="xs:string"/>
+  <xs:element name="intensity" type="xs:float"/>
+  <xs:element name="actual_mass" type="xs:double"/>
+  <xs:element name="input_mass" type="xs:double"/>
+  <xs:element name="xcorr" type="xs:float"/>
+  <xs:element name="deltacn" type="xs:float"/>
+  <xs:element name="sp" type="xs:float"/>
+  <xs:element name="rsp" type="xs:short"/>
+  <xs:element name="ions" type="xs:string"/>
+  <xs:element name="count" type="xs:integer"/>
+</xs:schema>

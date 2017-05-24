@@ -1,0 +1,13 @@
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\bin\Release\pRatio.exe.config
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\bin\Release\pRatio.exe
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\bin\Release\pRatio.pdb
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\bin\Release\Community.CsharpSqlite.dll
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\bin\Release\Community.CsharpSqlite.SQLiteClient.dll
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\x86\Release\ResolveAssemblyReference.cache
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\x86\Release\pRatio.AboutBox1.resources
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\x86\Release\pRatio.frmMain.resources
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\x86\Release\pRatio.frmHelp.resources
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\x86\Release\pRatio.Properties.Resources.resources
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\x86\Release\pRatio.csproj.GenerateResource.Cache
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\x86\Release\pRatio.exe
+D:\DATUMARO\trabajo\programas_repositorio\pRatio\trunk\pRatio\obj\x86\Release\pRatio.pdb

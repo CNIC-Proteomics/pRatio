@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="pRatio">
+</Property><Property Name="Archivo de la solución" Value="F:\wrk\ProbRatios\versions\pRatio_v4.0.7\pRatio.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="F:\wrk\ProbRatios\versions\pRatio_v4.0.7\pRatio.suo">
+</Property><Property Name="Date" Value="Friday, March 14, 2008">
+</Property><Property Name="Time" Value="16:05 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="pRatio.sln" Description="La copia F:\wrk\ProbRatios\versions\pRatio_v4.0.7\Backup\pRatio.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="pRatio.suo" Description="La copia F:\wrk\ProbRatios\versions\pRatio_v4.0.7\Backup\pRatio.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="pRatio" Source="pRatio\pRatio.csproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto F:\wrk\ProbRatios\versions\pRatio_v4.0.7\Backup\pRatio\pRatio.csproj">
+</Event><Event ErrorLevel="0" Project="pRatio" Source="pRatio\pRatio.csproj.user" Description="La copia de seguridad F:\wrk\ProbRatios\versions\pRatio_v4.0.7\Backup\pRatio\pRatio.csproj.user del archivo se ha creado correctamente">
+</Event><Event ErrorLevel="0" Project="pRatio" Source="pRatio\AboutBox1.cs" Description="Se realizó correctamente la copia de seguridad del archivo F:\wrk\ProbRatios\versions\pRatio_v4.0.7\Backup\pRatio\AboutBox1.cs">
+</Event><Event ErrorLevel="0" Project="pRatio" Source="pRatio\AboutBox1.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo F:\wrk\ProbRatios\versions\pRatio_v4.0.7\Backup\pRatio\AboutBox1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="pRatio" Source="pRatio\frmHelp.cs" Description="Se realizó correctamente la copia de seguridad del archivo F:\wrk\ProbRatios\versions\pRatio_v4.0.7\Backup\pRatio\frmHelp.cs">
+</Event><Event ErrorLevel="0" Project="pRatio" Source="pRatio\frmHelp.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo F:\wrk\ProbRatios\versions\pRatio_v4.0.7\Backup\pRatio\frmHelp.Designer.cs">
+</Event><Event ErrorLevel="0" Project="pRatio" Source="pRatio\Utilities.cs" Description="Se realizó correctamente la copia de seguridad del archivo F:\wrk\ProbRatios\versions\pRatio_v4.0.7\Backup\pRatio\Utilities.cs">
+</Event><Event ErrorLevel="0" Project="pRatio" Source="pRatio\DA_srfReader.cs" Description="Se realizó correctamente la copia de seguridad del archivo F:\wrk\ProbRatios\versions\pRatio_v4.0.7\Backup\pRatio\DA_srfReader.cs">
+</Event><Event ErrorLevel="0" Project="pRatio" Source="pRatio\Form1.cs" Description="Se realizó correctamente la copia de seguridad del archivo F:\wrk\ProbRatios\versions\pRatio_v4.0.7\Backup\pRatio\Form1.cs">
+</Event><Event ErrorLevel="0" Project="pRatio" Source="pRatio\Form1.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo F:\wrk\ProbRatios\versions\pRatio_v4.0.7\Backup\pRatio\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="pRatio" Source="pRatio\Program.cs" Description="Se realizó correctamente la copia de seguridad del archivo F:\wrk\ProbRatios\versions\pRatio_v4.0.7\Backup\pRatio\Program.cs">
+</Event><Event ErrorLevel="0" Project="pRatio" Source="pRatio\Properties\AssemblyInfo.cs" Description="Se realizó correctamente la copia de seguridad del archivo F:\wrk\ProbRatios\versions\pRatio_v4.0.7\Backup\pRatio\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="pRatio" Source="pRatio\Properties\Resources.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo F:\wrk\ProbRatios\versions\pRatio_v4.0.7\Backup\pRatio\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="pRatio" Source="pRatio\Properties\Settings.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo F:\wrk\ProbRatios\versions\pRatio_v4.0.7\Backup\pRatio\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="pRatio" Source="pRatio\app.config" Description="Se realizó correctamente la copia de seguridad del archivo F:\wrk\ProbRatios\versions\pRatio_v4.0.7\Backup\pRatio\app.config">
+</Event><Event ErrorLevel="0" Project="pRatio" Source="pRatio\Properties\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo F:\wrk\ProbRatios\versions\pRatio_v4.0.7\Backup\pRatio\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="pRatio" Source="pRatio\AboutBox1.resx" Description="Se realizó correctamente la copia de seguridad del archivo F:\wrk\ProbRatios\versions\pRatio_v4.0.7\Backup\pRatio\AboutBox1.resx">
+</Event><Event ErrorLevel="0" Project="pRatio" Source="pRatio\Form1.resx" Description="Se realizó correctamente la copia de seguridad del archivo F:\wrk\ProbRatios\versions\pRatio_v4.0.7\Backup\pRatio\Form1.resx">
+</Event><Event ErrorLevel="0" Project="pRatio" Source="pRatio\frmHelp.resx" Description="Se realizó correctamente la copia de seguridad del archivo F:\wrk\ProbRatios\versions\pRatio_v4.0.7\Backup\pRatio\frmHelp.resx">
+</Event><Event ErrorLevel="0" Project="pRatio" Source="pRatio\Properties\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo F:\wrk\ProbRatios\versions\pRatio_v4.0.7\Backup\pRatio\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="pRatio" Source="pRatio\pRatio.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="pRatio" Source="pRatio\pRatio.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="pRatio.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="pRatio.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="pRatio" Source="pRatio\pRatio.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="pRatio.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="quiXML_Schema" Type="System.String" Scope="User">
+      <Value Profile="(Default)">conf\QuiXML.xsd</Value>
+    </Setting>
+    <Setting Name="aaWeight_Schema" Type="System.String" Scope="User">
+      <Value Profile="(Default)">conf\aminoacids_weight.xsd</Value>
+    </Setting>
+    <Setting Name="aaWeight_XML" Type="System.String" Scope="User">
+      <Value Profile="(Default)">conf\aminoacids_weight.xml</Value>
+    </Setting>
+    <Setting Name="HydrogenMass" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">1.007825</Value>
+    </Setting>
+    <Setting Name="OxygenMass" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">15.994915</Value>
+    </Setting>
+    <Setting Name="pepXML_Schema" Type="System.String" Scope="User">
+      <Value Profile="(Default)">conf\pepXML_v18.xsd</Value>
+    </Setting>
+    <Setting Name="version" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5.5.00</Value>
+    </Setting>
+    <Setting Name="bioW33_Schema" Type="System.String" Scope="User">
+      <Value Profile="(Default)">conf\bioW33.xsd</Value>
+    </Setting>
+    <Setting Name="modifications_Schema" Type="System.String" Scope="User">
+      <Value Profile="(Default)">conf\modifications.xsd</Value>
+    </Setting>
+    <Setting Name="ProtonMass" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1.007276466812</Value>
+    </Setting>
+    <Setting Name="C13Mass" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">13.0033548378</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
