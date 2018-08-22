@@ -12,7 +12,10 @@ deltaMassThreshold = 10
 
 deltaMassAreas = 3
 
-# label Mass
+# label Masses
+# tagMass = 229.162932 # for TMT6plex
+# tagMass = 144.102063 # for iTRAQ4plex
+# tagMass = 304.20536  # for iTRAQ8plex
 
 tagMass = 229.162932
 
